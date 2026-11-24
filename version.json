@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "url": "https://github.com/Nefioo/qryi-launcher-updater/releases/download/v0.1.3/Qryi.Launcher.exe",
-  "notes": "v0.1.3 new features",
-  "sha256": "3DA7318350A2BEF4B0566076BFA0D47AC679BE0FD6D0E6C5588A82B34E63F44B"
+  "version": "0.1.4",
+  "url": "https://github.com/Nefioo/qryi-launcher-updater/releases/download/v0.1.4/Qryi.Launcher.exe",
+  "notes": "v0.1.4 new features (new friend system) ",
+  "sha256": "F46EA093F1C82D65DB5501C192C22213AE1F1CF32C0054EF61007DAA3216269B"
 }
